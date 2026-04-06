@@ -27,7 +27,6 @@
 		"https-proxy-agent": "^9.0.0",
 		"node-fetch": "^3.3.2",
 		"nopt": "^9.0.0",
-		"npmlog": "^7.0.1",
 		"semver": "^7.7.4",
 		"tar": "^7.5.13"
 	},
