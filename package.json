@@ -28,14 +28,14 @@
 		"node-fetch": "^3.3.2",
 		"nopt": "^10.0.1",
 		"semver": "^7.8.5",
-		"tar": "^7.5.16"
+		"tar": "^7.5.20"
 	},
 	"devDependencies": {
-		"eslint": "^10.5.0",
+		"eslint": "^10.7.0",
 		"eslint-config-aqua": "^9.2.1",
 		"eslint-config-prettier": "^10.1.8",
 		"eslint-plugin-prettier": "^5.5.6",
-		"prettier": "^3.8.4"
+		"prettier": "^3.9.5"
 	},
 	"publishConfig": {
 		"@hoshimikan6490:registry": "https://npm.pkg.github.com"
