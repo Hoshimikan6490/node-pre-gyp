@@ -1,6 +1,6 @@
 {
 	"name": "@hoshimikan6490/node-pre-gyp",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "Node.js native addon binary install tool",
 	"main": "./lib/node-pre-gyp.js",
 	"bin": "./bin/node-pre-gyp",
