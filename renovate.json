@@ -6,6 +6,10 @@
 		{
 			"matchPackageNames": ["*"],
 			"automerge": false
+		},
+		{
+			"matchDepTypes": ["devDependencies"],
+			"enabled": false
 		}
 	],
 	"schedule": ["before 4am"],
